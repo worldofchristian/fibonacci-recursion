@@ -1,5 +1,4 @@
 userInput = int(input('enter a number to fibonacci up to    '))+1
-fibonacci_cache = {}
 
 def fibonacci(n):
     if n == 1:
